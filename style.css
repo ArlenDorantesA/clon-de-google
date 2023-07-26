@@ -1,0 +1,176 @@
+* {
+    /* background-color: blueviolet; */
+     /* Modelo de caja (Espaciados) */
+    margin: 0px;
+    padding: 0px;
+
+     /* Configuraciones de letras */
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+} 
+
+header {
+    height: 8vh;
+}
+main {
+    height: 80vh;
+
+    /* display Confiuracion del contenedor padre (Como se van a comportar los hijos) */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+footer {
+    /* height: auto; */
+    background-color: #f2f2f2 ;
+}
+
+
+header nav {
+    /* Confiuracion del contenedor padre (Como se van a comportar los hijos) */
+    display: flex;
+    justify-content: flex-end;
+}
+
+ul {
+     /* Modelo de caja (TAMAÑOS) */
+     /* Confiuracion del contenedor padre (Como se van a comportar los hijos) */
+    display: flex;
+    /* Confiuracion visual (Para que no se vean los puntos de las listas) */
+    list-style: none;
+}
+
+li{
+     /* Modelo de caja (Espaciados) */
+    padding: 20px 10px;
+}
+
+/* comportamiento del link el resto del tiempo*/
+a:link{
+    text-decoration: none;
+    /* COLORES */
+    color: rgba(0,0,0,.87);
+}
+
+/* comportamiento del link el resto del tiempo*/
+a:visited{
+    text-decoration: none;
+    /* COLORES */
+    color: rgba(0,0,0,.87);
+}
+
+/* comportamiento del link cuendo el mouse està encima*/
+a:hover{
+    text-decoration: underline ;
+}
+
+.gb_h { 
+    /* COLORES */
+    color: #5f6368;
+    opacity: 1;
+}
+
+#nav-right-section{
+     /* Modelo de caja (Espaciados) */
+    padding: 20px 10px;
+}
+
+#nav-left-section{
+     /* Modelo de caja (Espaciados) */
+    padding: 0px 10px;
+}
+
+#footer-listas{
+    /* Confiuracion del contenedor padre (Como se van a comportar los hijos) */
+    display: flex;
+    justify-content: space-evenly
+}
+
+.pais {
+     /* Modelo de caja (Espaciados) */
+    padding: 15px 30px;;
+}
+
+
+#footer-listas ul li {
+     /* Modelo de caja (Espaciados) */
+    padding: 15px;
+}
+
+button {
+    /* Modelo de caja (ESPACIADOS) */
+    padding: 0 16px;
+    margin: 11px 4px;
+    /* Modelo de caja (TAMAÑOS) */
+    height: 36px;
+    /* Modelo de caja (BORDE) */
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+
+    /* COLORES */
+    background-color: #f8f9fa;
+    color: #3c4043;
+    /* ESTILO DE PUNTERO (FLECHITA) */
+    cursor: pointer;
+    
+}
+
+#botones {
+     /* Modelo de caja (ESPACIADOS) */
+    margin-bottom: 10%;
+}
+
+button:hover {
+    /* Modelo de caja (BORDE) */
+    border: 1px solid #dadce0;
+     /* Modelo de caja (sombras de la caja) */
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .1);
+
+    /* COLORES */
+    background-color: #f8f9fa;
+    
+    color: #202124;
+}
+
+#seccion-buscador {
+     /* Modelo de caja (ESPACIADOS) */
+    margin: 20px 0px;
+
+    /* Modelo de caja (TAMAÑOS) */
+    width: 560px;
+    min-height: 44px;
+
+     /* Modelo de caja (borde) */
+    border: 1px solid #dfe1e5;
+    border-radius: 24px ; 
+    
+     /* Confiuracion del contenedor padre (Como se van a comportar los hijos) */
+    display:flex;
+    justify-content: space-between;
+    
+
+}
+
+#seccion-buscador:hover {
+    /* Modelo de caja (sombras de la caja) */
+    box-shadow: 0 1px 6px rgba(32,33,36,.28);
+}
+
+#seccion-buscador svg {
+     /* Modelo de caja (ESPACIADOS) */
+    padding: 5px 7px;
+    width: 24px;
+}
+
+
+#buscador {
+    /* Modelo de caja (ESPACIADOS) */
+    width: 85%;
+     /* Configuracion de la caja de texto (no visualizar los bordes) */
+
+    border: none;
+    outline: none;
+
+}
