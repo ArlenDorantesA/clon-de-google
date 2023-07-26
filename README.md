@@ -20,6 +20,8 @@ Puedes poner en pràctica tus habilidades utilizando y reutilizando el còdigo a
 
 HTML trabaja de la mano con CSS para crear las pàginas web que todos los dìas usamos en el navegador. Incluso en este sitio web donde estàs viendo este contenido està construido con HTML y CSS (junto con otros elementos que conoceràs màs tarde). Para este primer proyecto, con los conocimientos que tienes de HTML y CSS realizaremos la clonaciòn de la interfaz de Google, sì, esa que ves cada que haces una busqueda en tu navegador.
 
+
+
 ### 2.- Demo
 
 Puedes entrar al demo en este vìnculo:  https://relaxed-mooncake-7704ab.netlify.app/
