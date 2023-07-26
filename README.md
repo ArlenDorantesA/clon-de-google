@@ -7,11 +7,11 @@ Puedes poner en pràctica tus habilidades utilizando y reutilizando el còdigo a
 
 ### ÌNDICE
 
-* [1.- Intro](url)
-* [2.- Demo](url)
-* [3.- ¿Què construiràs](url)
-* [4.- Objetivos de aprendizaje](url)
-* [5.- Requisitos](url)
+* [1.- Intro](https://github.com/ArlenDorantesA/clon-de-google#1--intro)
+* [2.- Demo](https://github.com/ArlenDorantesA/clon-de-google#2--demo)
+* [3.- ¿Què construiràs](https://github.com/ArlenDorantesA/clon-de-google#3--qu%C3%A8-construir%C3%A0s)
+* [4.- Objetivos de aprendizaje](https://github.com/ArlenDorantesA/clon-de-google#4--objetivos-de-aprendizaje)
+* [5.- Requisitos](https://github.com/ArlenDorantesA/clon-de-google#5--requisitos)
 
 ****
 
