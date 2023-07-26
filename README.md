@@ -61,7 +61,7 @@ UI
 
 * [ ] Aplicar en todo el sitio HTML semàntico de estàndar no.5 (HTML5)
 * [ ] Aplicar tipos de selecciones en CSS
-* [ ] Secciòn 
+* [ ] Secciòn ***Header***, ***Main*** y ***Footer***
 
 Happy coding! 
 
