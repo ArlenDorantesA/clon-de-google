@@ -1,7 +1,7 @@
 # Clon de Google  💡
 ## (HTML, CSS)
 
-Es un proyecto realizado con la intención de aplicar los conocimientos obtenidos en el bootcamp de Tecnolochicas PRO Summer camp
+Es un proyecto realizado con la intención de aplicar los conocimientos obtenidos en el bootcamp de Tecnolochicas PRO Summer camp 👩🏻‍💻
 
 Puedes poner en pràctica tus habilidades utilizando y reutilizando el còdigo a continuaciòn 
 
